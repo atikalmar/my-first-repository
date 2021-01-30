@@ -1,4 +1,2 @@
-.asteroidbig { color: blue; background: yellow; }
-.asteroidb329big {color: blue;}
-.asteroid {border: solid green 1px; }
-.asteroidb326 {border: solid green 1px; }
+p {Border: solid black 3px; width: 500px; }
+p:hover {background-color: red;}

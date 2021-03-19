@@ -1,1 +1,2 @@
 div {display: flex; flex-direction: column;}
+a:hover {background-color: crimson; width: 360px; }
